@@ -84,8 +84,7 @@ scraperRequest(urlToScrape, ".nav .shirts", "a@href")
     })
     .then(function(productUrlsArr) {
         /**
-         * @function
-         * getScraperRequestArray: creates an array of calls
+         * @function getScraperRequestArray: creates an array of calls
          * to scraperRequest() It is used with Promise.all
          * @param productUrlsArr: each individual item url
          */
