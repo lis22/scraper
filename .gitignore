@@ -1,0 +1,5 @@
+scraper-error.log
+/node_modules
+/.idea
+.eslintrc.json
+*.iml

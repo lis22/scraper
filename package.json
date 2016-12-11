@@ -1,0 +1,20 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Treehouse Project 6 Scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scraper.js"
+  },
+  "author": "lis22",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^2.3.0",
+    "x-ray": "^2.3.1"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/lis22/scraper.git"
+  }
+}
